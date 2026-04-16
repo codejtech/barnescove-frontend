@@ -3,7 +3,7 @@
     <Card class="w-full max-w-md shadow-lg">
       <template #header>
         <div class="text-center pt-6 pb-2">
-          <img src="/logo.svg" alt="Barnes Cove HOA" class="h-12 mx-auto mb-3" />
+          <img src="#" alt="Barnes Cove HOA" class="h-12 mx-auto mb-3" />
           <h1 class="text-2xl font-semibold text-surface-900">Resident Login</h1>
           <p class="text-surface-500 text-sm mt-1">Barnes Cove HOA Portal</p>
         </div>
