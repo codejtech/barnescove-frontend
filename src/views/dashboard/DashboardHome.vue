@@ -85,7 +85,7 @@
 
 <script setup>
 import { ref, computed, onMounted } from 'vue'
-import { useAuthStore } from '../stores/auth'
+import { useAuthStore } from '@/stores/auth'
 import api from '@/api/axios'
 import Button from 'primevue/button'
 import Tag from 'primevue/tag'

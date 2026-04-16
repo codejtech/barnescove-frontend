@@ -74,7 +74,7 @@
 
 <script setup>
 import { ref, reactive } from 'vue'
-import { useAuthStore } from '../stores/auth'
+import { useAuthStore } from '@/stores/auth'
 import { useToast } from 'primevue/usetoast'
 import api from '@/api/axios'
 import InputText from 'primevue/inputtext'
