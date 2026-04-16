@@ -1,5 +1,5 @@
 <template>
-  <header class="bg-surface-0 border-b border-surface-200 sticky top-0 z-50">
+  <header class="bg-white border-b border-surface-200 sticky top-0 z-50">
     <div class="max-w-6xl mx-auto px-6 py-4 flex items-center justify-between">
       <!-- Logo -->
       <RouterLink to="/" class="flex items-center gap-2 no-underline">
